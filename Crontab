@@ -1,0 +1,2 @@
+#I simply make crontab-e entries to run every 1 hour  :
+* 1 * * * /bin/bash /usr/local/bin/log_rotation.sh
