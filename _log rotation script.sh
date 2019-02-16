@@ -1,5 +1,5 @@
-﻿Twokoko Chaw
-IAE 260
+
+
 #!/bin/bash
 #log rotation script
 # Assign variables
