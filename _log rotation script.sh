@@ -1,5 +1,3 @@
-
-
 #!/bin/bash
 #log rotation script
 # Assign variables
